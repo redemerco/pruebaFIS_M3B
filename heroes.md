@@ -12,3 +12,6 @@ Spider-Man
 Winter Soldier
 Starlord
 Gamora
+Wanda Maximoff
+Scarlet Witch
+
